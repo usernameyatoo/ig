@@ -31,10 +31,10 @@ const SUCCESS_MESSAGE = {
 const MESSSAGE = {
     HELLO: "Hello from InstaSaver Bot!",
     WELCOME:
-        "Hi firstName, 👋\nWelcome to Insta Saver Bot! \n\nTo get started, send me the link of Instagram post, Reels, IGTV, etc. to download the video. \n\nHappy downloading!",
-    GATHERING_CONTENT: "Gathering content 🔍",
-    INITIATING_UPLOAD: "Initiating upload 🚀",
-    DOWNLOADING: "➡️  Downloading post for: shortCode 📥",
+        "Hi firstName, ✨\nWᴇʟᴄᴏᴍᴇ ᴛᴏ Rᴇᴇʟ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ Bᴏᴛ! \n\nTᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ, sᴇɴᴅ ᴍᴇ ᴛʜᴇ ʟɪɴᴋ ᴏғ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ, Rᴇᴇʟs, IGTV, ᴇᴛᴄ. ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇ ᴠɪᴅᴇᴏ.",
+    GATHERING_CONTENT: "Gᴀᴛʜᴇʀɪɴɢ ᴄᴏɴᴛᴇɴᴛ",
+    INITIATING_UPLOAD: "Iɴɪᴛɪᴀᴛɪɴɢ ᴜᴘʟᴏᴀᴅ",
+    DOWNLOADING: "Downloading post for: shortCode",
     VIDEO_UPLOAD_LIMIT:
         "Unable to send video 😢 \nPossibly, it might have exceeded the Bot's upload limit. \n\nPlease download the video from below link: \nmediaUrl",
     PHOTO_UPLOAD_LIMIT:
