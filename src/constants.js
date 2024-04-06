@@ -31,7 +31,7 @@ const SUCCESS_MESSAGE = {
 const MESSSAGE = {
     HELLO: "Hello from InstaSaver Bot!",
     WELCOME:
-        "Hi firstName, ✨\nsᴇɴᴅ ᴍᴇ ᴛʜᴇ ʟɪɴᴋ ᴏғ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ, Rᴇᴇʟs, IGTV, ᴇᴛᴄ. ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇ ᴠɪᴅᴇᴏ.",
+        "ʜɪᴇᴇ :)\nᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴜʀ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ , ᴘᴏsᴛ ᴇᴛᴄ\nsᴇɴᴅ ᴀ ᴘᴏsᴛ ʟɪɴᴋ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ...",
     GATHERING_CONTENT: "Gᴀᴛʜᴇʀɪɴɢ ᴄᴏɴᴛᴇɴᴛ",
     INITIATING_UPLOAD: "Iɴɪᴛɪᴀᴛɪɴɢ ᴜᴘʟᴏᴀᴅ",
     DOWNLOADING: "Downloading post for: shortCode",
