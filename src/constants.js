@@ -29,7 +29,7 @@ const SUCCESS_MESSAGE = {
 };
 
 const MESSSAGE = {
-    HELLO: "Hello from InstaSaver Bot!",
+    HELLO: "Hello from Reel Downloader!",
     WELCOME:
         "ʜɪᴇᴇ :)\nᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴜʀ ɪɴsᴛᴀɢʀᴀᴍ ʀᴇᴇʟ , ᴘᴏsᴛ ᴇᴛᴄ\nsᴇɴᴅ ᴀ ᴘᴏsᴛ ʟɪɴᴋ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ...",
     GATHERING_CONTENT: "Gᴀᴛʜᴇʀɪɴɢ ᴄᴏɴᴛᴇɴᴛ",
