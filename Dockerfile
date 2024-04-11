@@ -11,6 +11,6 @@ CMD ["nginx", "-g", "daemon off;"]
 
 
 FROM nikolaik/python-nodejs:python3.9-nodejs18
-RUN gem uninstall nokogiri
+RUN gem update --system
 RUN npm i
 CMD npm run dev
